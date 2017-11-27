@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Wer das hier liest ist blöd!
+
+Wer das gelesen hat ist noch viel blöder!
